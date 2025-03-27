@@ -27,8 +27,8 @@ menu:
         #   weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "Hello! This is Raman. I'm a Ph.D. student in Machine Learning and Data Science at the University of California San Diego. My research focuses on the intersection of Network Science, Game Theory, and Optimization, specifically investigating socio-technical systems through mathematical modeling and computational techniques."
+    author: Raman Ebrahimi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
